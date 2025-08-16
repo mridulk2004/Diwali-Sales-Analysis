@@ -52,15 +52,7 @@ Some possible findings from the analysis:
 - Top purchasing states include **Uttar Pradesh**, **Maharashtra**, and **Karnataka**.
 - Best-selling product categories are **Footwear & Shoes**, **Stationery**, and **Auto**.
 
-***
 
-## 📈 Visualizations
-The notebook includes multiple visualizations like:
-
-- **Sales by Gender**  
-  ![Gender Sales](docs/images/gender_sales by Orders**  
-  ![Top States](docs/images/top_states.png Product Category**  
-  ![Categories](docs/images/product_categories placeholders can be replaced with actual plot screenshots.*)
 
 ***
 
